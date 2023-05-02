@@ -1,0 +1,27 @@
+.chat-list {
+    width: 100%;
+    background-color: rgba(31, 34, 111, 0.837);
+    flex-grow: 1;
+}
+
+.chat-item {
+    margin-bottom: 10px;
+    color: aliceblue;
+   margin: 5px 5px 5px 5px;
+   cursor: pointer;
+   padding: 5px 10px;
+   min-height: 40px;
+
+}
+
+.chat-item__name {
+    font-weight: 600;
+    font-size: 17px;
+    margin-bottom: 3px;
+}
+.chat-item__lastmes {
+    font-size: 14px;
+}
+.chat-item:hover {
+    background:rgba(31, 34, 111, 0.837)
+}

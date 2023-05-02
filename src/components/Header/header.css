@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #191977;
+    color: white;
+    height: 40px;
+    align-items: center;
+    padding: 0 5px 0 5px;
+}
+
+.header__logout-btn {
+    background-color: #42457d;
+    border-radius: 16px;
+    padding: 2px 5px 2px 5px;
+    cursor: pointer;
+}
+.header__logout-btn:hover {
+    
+}
+
+.header__chat-name {
+
+}
